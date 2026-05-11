@@ -1,0 +1,11 @@
+/mixed_dataset
+/peaknorm
+/pi_dataset
+/dataset
+/FinalModel
+/test_data
+*.h
+*.bin
+*.log
+*.h5
+/KWS_Production
